@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there, I'm Shah Dost! 👋
 
-<!--
-**shahdostofficial/shahdostofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+🔹 Blockchain Developer | Smart Contract Auditor | DeFi & Web3 Enthusiast
+🔹 Passionate about Solidity,Rust, INK, Substrate, Hardhat, and security in smart contracts.
+🔹 Currently working on Stablecoins,RWA, DeFi, and cross-chain solutions.
+
+💡 **Skills:** Solidity, Hardhat, Rust, Metaplex, Foundry, Web3.js, React, Node.js  
+🔗 **Portfolio:** [My Contributions](linktr.ee/Shah_Dost)  
+📩 **Contact:** [LinkedIn](https://www.linkedin.com/in/shahdostofficial/)  
