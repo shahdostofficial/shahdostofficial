@@ -4,7 +4,7 @@ Hi there, I'm Shah Dost! 👋
 
 🚀 About Me
 
-🔹 Blockchain Developer | Smart Contract Auditor | DeFi & Web3 Enthusiast
+🔹 Sr. Blockchain Developer | Smart Contract Auditor | DeFi & Web3 Enthusiast.
 🔹 Passionate about Solidity,Rust, INK, Substrate, Hardhat, and security in smart contracts.
 🔹 Currently working on Stablecoins,RWA, DeFi, and cross-chain solutions.
 
