@@ -9,5 +9,7 @@ Hi there, I'm Shah Dost! 👋
 🔹 Currently working on Stablecoins,RWA, DeFi, and cross-chain solutions.
 
 💡 **Skills:** Solidity, Hardhat, Rust, Metaplex, Foundry, Web3.js, React, Node.js  
+
 🔗 **Portfolio:** [My Contributions](https://linktr.ee/Shah_Dost)
+
 📩 **Contact:** [LinkedIn](https://www.linkedin.com/in/shahdostofficial/)  
