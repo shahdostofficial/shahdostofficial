@@ -6,10 +6,11 @@ Hi there, I'm Shah Dost! 👋
 
 🔹 Sr. Blockchain Developer | Smart Contract Auditor | DeFi & Web3 Enthusiast.
 🔹 Passionate about Solidity,Rust, INK, Substrate, Hardhat, and security in smart contracts.
-🔹 Currently working on Stablecoins,RWA, DeFi, and cross-chain solutions.
-🔹 Working on centralized and decentralized exchages.
+🔹 Experienced in Stablecoins, RWA, DeFi, and cross-chain solutions.
+🔹 Build centralized and decentralized exchages.
+🔹 Wallet infrastructure MPC, HSM, KMS, Multichain Wallet and Exchange Wallets.
 
-💡 **Skills:** Solidity, Hardhat, Rust, Metaplex, Foundry, Web3.js, React, Node.js  
+💡 **Skills:** Solidity, Go, Rust, Metaplex, Hardat, Foundry, Web3.js, React, Node.js, Psql  
 
 🔗 **Portfolio:** [My Contributions](https://linktr.ee/Shah_Dost)
 
